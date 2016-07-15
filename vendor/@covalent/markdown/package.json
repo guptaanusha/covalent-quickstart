@@ -1,0 +1,139 @@
+{
+  "_args": [
+    [
+      {
+        "name": "@covalent/markdown",
+        "raw": "@covalent/markdown@0.4.0-1",
+        "rawSpec": "0.4.0-1",
+        "scope": "@covalent",
+        "spec": "0.4.0-1",
+        "type": "version"
+      },
+      "/Users/kyleledbetter/Sites/covalent-quickstart"
+    ]
+  ],
+  "_from": "@covalent/markdown@0.4.0-1",
+  "_id": "@covalent/markdown@0.4.0-1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/@covalent/markdown",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/markdown-0.4.0-1.tgz_1468381746359_0.3469644363503903"
+  },
+  "_npmUser": {
+    "email": "emoralesb05@gmail.com",
+    "name": "emoralesb05"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {
+    "when": "3.7.7"
+  },
+  "_requested": {
+    "name": "@covalent/markdown",
+    "raw": "@covalent/markdown@0.4.0-1",
+    "rawSpec": "0.4.0-1",
+    "scope": "@covalent",
+    "spec": "0.4.0-1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@covalent/markdown/-/markdown-0.4.0-1.tgz",
+  "_shasum": "6f6203fe8ace66b430ef58870641aa4b09e8a75f",
+  "_shrinkwrap": null,
+  "_spec": "@covalent/markdown@0.4.0-1",
+  "_where": "/Users/kyleledbetter/Sites/covalent-quickstart",
+  "author": {
+    "name": "Teradata UX"
+  },
+  "bugs": {
+    "url": "https://github.com/teradata/covalent/issues"
+  },
+  "contributors": [
+    {
+      "email": "kyle.ledbetter@teradata.com",
+      "name": "Kyle Ledbetter"
+    },
+    {
+      "email": "richa.vyas@teradata.com",
+      "name": "Richa Vyas"
+    },
+    {
+      "email": "eduardo.morales@teradata.com",
+      "name": "Ed Morales"
+    },
+    {
+      "email": "jason.weaver@teradata.com",
+      "name": "Jason Weaver"
+    },
+    {
+      "email": "jeremy.wilken@teradata.com",
+      "name": "Jeremy Wilken"
+    }
+  ],
+  "dependencies": {
+    "@angular/common": "2.0.0-rc.0",
+    "@angular/compiler": "2.0.0-rc.0",
+    "@angular/core": "2.0.0-rc.0",
+    "@angular/http": "2.0.0-rc.0",
+    "@angular/platform-browser": "2.0.0-rc.0",
+    "@angular/platform-browser-dynamic": "2.0.0-rc.0",
+    "@angular/router": "2.0.0-rc.0",
+    "es6-shim": "0.35.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.6",
+    "showdown": "1.4.2",
+    "systemjs": "0.19.26",
+    "zone.js": "0.6.12"
+  },
+  "description": "Teradata UI Platform Markdown Module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6f6203fe8ace66b430ef58870641aa4b09e8a75f",
+    "tarball": "https://registry.npmjs.org/@covalent/markdown/-/markdown-0.4.0-1.tgz"
+  },
+  "engines": {
+    "node": ">4.4 < 5",
+    "npm": ">= 3"
+  },
+  "homepage": "https://github.com/teradata/covalent#readme",
+  "keywords": [
+    "angular",
+    "components",
+    "reusable"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "emoralesb05@gmail.com",
+      "name": "emoralesb05"
+    },
+    {
+      "email": "kyle.ledbetter@teradata.com",
+      "name": "teradata"
+    }
+  ],
+  "name": "@covalent/markdown",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teradata/covalent.git"
+  },
+  "scripts": {},
+  "version": "0.4.0-1",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "pkgid": "@covalent/markdown@0.4.0-1",
+      "required": {
+        "node": ">4.4 < 5",
+        "npm": ">= 3"
+      }
+    }
+  ]
+}

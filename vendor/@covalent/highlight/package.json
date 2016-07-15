@@ -1,0 +1,137 @@
+{
+  "_args": [
+    [
+      {
+        "name": "@covalent/highlight",
+        "raw": "@covalent/highlight@0.4.0-1",
+        "rawSpec": "0.4.0-1",
+        "scope": "@covalent",
+        "spec": "0.4.0-1",
+        "type": "version"
+      },
+      "/Users/kyleledbetter/Sites/covalent-quickstart"
+    ]
+  ],
+  "_from": "@covalent/highlight@0.4.0-1",
+  "_id": "@covalent/highlight@0.4.0-1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/@covalent/highlight",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/highlight-0.4.0-1.tgz_1468381740282_0.2004639464430511"
+  },
+  "_npmUser": {
+    "email": "emoralesb05@gmail.com",
+    "name": "emoralesb05"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "@covalent/highlight",
+    "raw": "@covalent/highlight@0.4.0-1",
+    "rawSpec": "0.4.0-1",
+    "scope": "@covalent",
+    "spec": "0.4.0-1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@covalent/highlight/-/highlight-0.4.0-1.tgz",
+  "_shasum": "40f47dcc495650660316105146e129ba5425f9ae",
+  "_shrinkwrap": null,
+  "_spec": "@covalent/highlight@0.4.0-1",
+  "_where": "/Users/kyleledbetter/Sites/covalent-quickstart",
+  "author": {
+    "name": "Teradata UX"
+  },
+  "bugs": {
+    "url": "https://github.com/teradata/covalent/issues"
+  },
+  "contributors": [
+    {
+      "email": "kyle.ledbetter@teradata.com",
+      "name": "Kyle Ledbetter"
+    },
+    {
+      "email": "richa.vyas@teradata.com",
+      "name": "Richa Vyas"
+    },
+    {
+      "email": "eduardo.morales@teradata.com",
+      "name": "Ed Morales"
+    },
+    {
+      "email": "jason.weaver@teradata.com",
+      "name": "Jason Weaver"
+    },
+    {
+      "email": "jeremy.wilken@teradata.com",
+      "name": "Jeremy Wilken"
+    }
+  ],
+  "dependencies": {
+    "@angular/common": "2.0.0-rc.3",
+    "@angular/compiler": "2.0.0-rc.3",
+    "@angular/core": "2.0.0-rc.3",
+    "@angular/forms": "0.1.1",
+    "@angular/http": "2.0.0-rc.3",
+    "@angular/platform-browser": "2.0.0-rc.3",
+    "@angular/platform-browser-dynamic": "2.0.0-rc.3",
+    "@angular/router": "3.0.0-alpha.8",
+    "es6-shim": "0.35.1",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "5.0.0-beta.6",
+    "systemjs": "0.19.27",
+    "zone.js": "^0.6.12"
+  },
+  "description": "Teradata UI Platform Highlight Module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "40f47dcc495650660316105146e129ba5425f9ae",
+    "tarball": "https://registry.npmjs.org/@covalent/highlight/-/highlight-0.4.0-1.tgz"
+  },
+  "engines": {
+    "node": ">4.4 < 5",
+    "npm": ">= 3"
+  },
+  "homepage": "https://github.com/teradata/covalent#readme",
+  "keywords": [
+    "angular",
+    "components",
+    "reusable"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "emoralesb05@gmail.com",
+      "name": "emoralesb05"
+    },
+    {
+      "email": "kyle.ledbetter@teradata.com",
+      "name": "teradata"
+    }
+  ],
+  "name": "@covalent/highlight",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teradata/covalent.git"
+  },
+  "scripts": {},
+  "version": "0.4.0-1",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "pkgid": "@covalent/highlight@0.4.0-1",
+      "required": {
+        "node": ">4.4 < 5",
+        "npm": ">= 3"
+      }
+    }
+  ]
+}
