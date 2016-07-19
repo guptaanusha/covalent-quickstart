@@ -11,3 +11,4 @@ Quickstart App with @covalent packages
 * Install Node packages `npm i`
 * Update Webdriver `webdriver-manager update` and `./node_modules/.bin/webdriver-manager update`
 * Run local build `ng serve`
+**
